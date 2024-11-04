@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://omoluuke.github.io/bgN/sitemap_index.txt
+Sitemap: https://omoluuke.github.io/dvP/sitemap_index.txt
+Sitemap: https://omoluuke.github.io/ldn/sitemap_index.txt
+Sitemap: https://omoluuke.github.io/nEU/sitemap_index.txt
